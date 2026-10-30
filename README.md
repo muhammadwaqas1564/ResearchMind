@@ -18,10 +18,3 @@
 * **Automated Summarization:** Produces bulleted executive summaries, methodology overviews, and contribution lists.
 
 ---
-
-## Quick Start
-
-```bash
-git clone [https://github.com/muhammadwaqas1564/ResearchMind.git](https://github.com/muhammadwaqas1564/ResearchMind.git)
-cd ResearchMind
-pip install -r requirements.txt
